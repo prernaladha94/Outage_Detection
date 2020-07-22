@@ -49,7 +49,9 @@ Objectives:
 In this hackathon, you are expected to:
 
 1. Explore the data and engineer new features
+
 2. Predict the `outage_durtion‘ for records given in `test_data.csv` file
+
 3. Answer questions from the operations team using EDA
 
 Answering questions from the operations team:
@@ -57,7 +59,9 @@ Answering questions from the operations team:
 The operations team at ‘India Broadband’ has asked you the following questions
 
 ● Which areas are most prone to long outage durations?
+
 ● Which broadband types are suspect of long outage durations?
+
 ● Any other recommendations to improve the detection of outage durations.
 
 Evaluation Metric:
